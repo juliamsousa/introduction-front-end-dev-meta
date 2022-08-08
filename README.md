@@ -1,29 +1,10 @@
 # Introduction to Front-End Development - Meta/Coursera
 
-## O que você vai aprender
+![cover](https://149357281.v2.pressablecdn.com/wp-content/uploads/2022/06/blog_template-copy-2a.jpg)
 
-✔️ Create a responsive website using HTML to structure content, CSS to handle visual style, and JavaScript to develop interactive experiences. 
+## Conteúdo
 
-✔️ Learn to use React in relation to Javascript libraries and frameworks.
-
-✔️ Learn Bootstrap CSS Framework to create webpages and work with GitHub repositories and version control.
-
-    ✔️ Prepare for a coding interview, learn best approaches to problem-solving, and build portfolio-ready projects you can share during job interviews.
-
-### Habilidades que você terá
-
-    ✔️ Cascading Style Sheets (CSS)
-    ✔️ HTML
-    ✔️ UI/UX design
-    ✔️React
-    ✔️ JavaScript
-    ✔️ Web Development Tools
-    ✔️ User Interface
-    ✔️ Front-End Web Development
-    ✔️ HTML and CSS
-    ✔️ Responsive Web Design
-    ✔️ Test-Driven Development
-    ✔️ Object-Oriented Programming (OOP)
+![content](https://user-images.githubusercontent.com/39354498/183530081-02e7159f-52fc-4e56-b8b9-33c1fccd9129.png)
 
 
 ## Sobre este Certificado profissional
@@ -35,10 +16,11 @@ Once you complete the program, you’ll get exclusive access to the Meta Career 
 
 In this program, you’ll learn: 
 
-    How to code and build interactive web pages using HTML5, CSS and JavaScript. 
-    In-demand design skills to create professional page layouts using industry-standard tools such as Bootstrap, React, and Figma. 
-    GitHub repositories for version control, content management system (CMS) and how to edit images using Figma. 
-    How to prepare for technical interviews for front-end developer roles.
+    ✔️ How to code and build interactive web pages using HTML5, CSS and JavaScript. 
+    ✔️ In-demand design skills to create professional page layouts using industry-standard tools such as Bootstrap, 
+    React, and Figma. 
+    ✔️ GitHub repositories for version control, content management system (CMS) and how to edit images using Figma. 
+    ✔️ How to prepare for technical interviews for front-end developer roles.
 
 By the end, you’ll put your new skills to work by completing a real-world portfolio project where you’ll create your own front-end web application. You’ll build a dynamic website and create a responsive website that you can showcase during a job interview. Plus, you’ll get tips for a successful coding interview and get support in your job search.
 
@@ -49,8 +31,9 @@ Throughout the program, you’ll engage in hands-on activities that offer opport
 
 At the end of each course, you’ll complete a project to test your new skills and ensure you understand the criteria before moving on to the next course. There are 9 projects in which you’ll use a lab environment or a web application to perform tasks such as:  
 
-    Edit your Bio page—using your skills in HTML5, CSS and UI frameworks
-    Manage a project in GitHub—using version control in Git, Git repositories and the Linux Terminal 
-    Build a static version of an application—you’ll apply your understanding of React, frameworks, routing, hooks, bundlers and data fetching. 
+    ✔️ Edit your Bio page—using your skills in HTML5, CSS and UI frameworks
+    ✔️ Manage a project in GitHub—using version control in Git, Git repositories and the Linux Terminal 
+    ✔️ Build a static version of an application—you’ll apply your understanding of React, frameworks, routing, 
+    hooks, bundlers and data fetching. 
 
 At the end of the program, there will be a Capstone project where you will bring your new skillset together to create the front-end web application.
